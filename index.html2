@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>DaNi Schaefer<br />
+						My Portfolio</h1>
+						<p>Here is a Showcase of My Projects & My Abilities.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">MIT xPro Portfolio</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Main MIT xPro Projects</a></li>
+							<li><a href="generic.html">Weekly Projects</a></li>
+							<li><a href="#">Self Study & Fun Side Projects</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/DaNille1721/DaNiSchaefer2.0.github.io" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">My Journey Began Here</span>
+									<h2><a href="https://executive-ed.xpro.mit.edu/professional-certificate-coding?utm_source=Google&utm_network=g&utm_medium=c&utm_term=mit%20xpro%20full%20stack&utm_location=9029749&utm_campaign_id=17059210457&utm_adset_id=135511781469&utm_ad_id=594862351436&gclid=CjwKCAjwvsqZBhAlEiwAqAHElSwqah0MUx8QVVhu1gFnQvmp8w9yO00sbOsFAYXvbQI7lmpQEtIGnRoCjuIQAvD_BwE">MIT xPro<br />
+									Full Stack Development with MERN</a></h2>
+									<p>I have always dreamed of being a Software Engineer/Developer &
+									with the opportunity to join a program at MIT, I was able to finally able break through the clouds of "maybe dreams" & achieve my <strong>"FOREVER Dream".</strong><br /></strong>
+									<br />
+
+									I have been working in the Health Science feilds for so long, that I knew I wanted more out of my life.<br />
+									I am currently the Director of Client Records & Compliance doing record coding, keeping, and Medicaid compliance for a Home Health Company in Salt Lake City, Utah. 
+									I am also a student at MIT doing the xPro Program. I am a full time Mother of a wonderful Daughter who has <strong>BIG</strong> aspirations of working for NASA. So in trying to show my Daughter that reaching for the stars is possible, I have decided to go for my dream job of becoming a Software Engineer/Developer.</p>
+								</header>
+								<a href="#" class="image fit"><img src="images/DaNi Photo For MIT Port3.jpg" alt="" /></a>
+								<ul class="actions special">
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">My Favorite Project So Far...</span>
+										<h2><a href="#">Eye Movement<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/EyeMovementScreen.jpg" alt="" /></a>
+									<p><ReadMeEyeMove class="txt"></ReadMeEyeMove></p>
+									<p><README class="txt"></README></p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Check It Out!</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Project 1</span>
+										<h2><a href="#">Real Time Bus Tracker Excercise<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/RealTimeBusTrackerScreen.jpg" alt="" /></a>
+									<p></p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Check It Out!</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Project 2</span>
+										<h2><a href="#">PacMan Exercise<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/PackmanScreen.jpg" alt="" /></a>
+									<p></p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Check It Out!</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">Project 3</span>
+										<h2><a href="#">Tempus sed<br />
+										nulla imperdiet</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Check It Out!</a></li>
+									</ul>
+								</article>
+						
+					</div>
+
+				
+							<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<div class="image main"><img src="images/Fall at Neuschwanstein Castle2.jpg" alt="" /></div>
+									</div>
+									<div class="field">
+										
+									</div>
+									<div class="field">
+										
+									</div>
+								</div>
+								<ul class="actions">
+									
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>Salt Lake City, UT 84095</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(435) 313-1948</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">Bpointshoes1721@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/DaNille1721/DaNiSchaefer2.0.github.io" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
